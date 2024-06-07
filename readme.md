@@ -1,4 +1,4 @@
-# Video Showcase
+# Project preview
 ## A longer video with audio can be accessed [here](https://youtu.be/f5Gqn_xpqrw?si=AmdydtLuWuDTVfvh).
 
 ![short-gif-demo](demo.gif)
