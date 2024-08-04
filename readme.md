@@ -1,5 +1,5 @@
 # Project preview
-## A longer video with audio can be accessed [here](https://youtu.be/f5Gqn_xpqrw?si=AmdydtLuWuDTVfvh](https://youtu.be/PiCsoy_KPWg?si=Gan5fwtnjIXY43ad).
+## A longer video with audio can be accessed [here](https://youtube.com/watch?v=PiCsoy_KPWg).
 
 ![short-gif-demo](demo.gif)
 
