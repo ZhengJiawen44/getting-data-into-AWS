@@ -3,7 +3,6 @@
 
 ![short-gif-demo](demo.gif)
 
-# Title
-Publishing humidity reading to AWS 
+# Publishing humidity reading to AWS 
 
-IOT project using dht11 and a esp32 to send sensor data to aws IOT. 
+### my IOT project using dht11 and a esp32 to send sensor data to aws IOT. This data is ingested into a timestreamDB and later analyzed in grafana
