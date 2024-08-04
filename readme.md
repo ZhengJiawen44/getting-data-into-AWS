@@ -3,4 +3,7 @@
 
 ![short-gif-demo](demo.gif)
 
+# Title
+Publishing humidity reading to AWS 
+
 IOT project using dht11 and a esp32 to send sensor data to aws IOT. 
